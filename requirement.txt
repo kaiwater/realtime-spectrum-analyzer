@@ -1,0 +1,4 @@
+pip3 install pyaudio numpy
+
+pip3 install pyside6==6.3.1
+pip3 install pyqtgraph==0.12.4
